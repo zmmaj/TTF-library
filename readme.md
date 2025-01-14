@@ -93,6 +93,7 @@ I decide to , beside print on screen , and write to 'FontTest.txt' file.
 Enter in terminal just ttf... 
 
 you will get warning, to enter ttf filename... as is below
+
 ![start wrong1](https://github.com/user-attachments/assets/89c6fa26-a3df-4ce6-bc7c-d6789d4457dd)
 
 ok...
@@ -100,6 +101,7 @@ ok...
 Enter now 
 
  ttf envy.ttf
+ 
 ![envy](https://github.com/user-attachments/assets/d2bfb150-3f96-4c93-8f2b-1fd400dbff46)
 
 Whola... here it is, something interesting now. All coordinates was on screen. as is below
@@ -111,6 +113,7 @@ To see all extracted data type in terminal next...
 edit FontTest.txt
 
 You will get as below
+
 ![envy edit txt](https://github.com/user-attachments/assets/799e5c54-492d-4525-b24a-8964d76d4038)
 
 NOTE: this for testing purpose, I did not try what will hapend on type mistake..
@@ -128,15 +131,17 @@ Open new terminal and now enter
 ttf envy_bold
 
 and you will get data as below 
+
 ![envy_bold](https://github.com/user-attachments/assets/b0845fbb-5b9b-4814-b346-575e8c6db9a0)
 
-Continu, just as before, tupe in editor
+Continue, just as before, tupe in editor
 
 edit FontTest.txt
 
 And wditor will open same file but with new data inside..
 
 now you can compare it.. 
+
 ![both txt](https://github.com/user-attachments/assets/44008347-3da2-4595-a270-b51efd4f0f3a)
 
 
