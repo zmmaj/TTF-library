@@ -58,9 +58,9 @@ I decide to , beside print on screen , and write to 'FontTest.txt' file.
 Let's try
 Enter in terminal just ttf... 
 you will get warning, to enter ttf filename... as is below
-![start wrong](https://github.com/user-attachments/assets/cad15571-fcc2-4b34-bf12-2e447e2904ee)
+![start wrong1](https://github.com/user-attachments/assets/89c6fa26-a3df-4ce6-bc7c-d6789d4457dd)
 
-Do that
+ok...
 Enter now 
  ttf envy.ttf
 ![envy](https://github.com/user-attachments/assets/d2bfb150-3f96-4c93-8f2b-1fd400dbff46)
