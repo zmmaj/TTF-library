@@ -1,6 +1,15 @@
 This small library I was implement in SrBinOS, but AND in HelenOS
 
+Use it on own risk....
+
+If you can to improve this library -> DO THAT !  and share with all..
+
 Here is Implementacion in HelenOS
+
+Most code, and idea I was take from SCHARLOK93... https://handmade.network/forums/
+
+Most instructions you can find here-> 
+https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6.html
 
 It will be cool, if someone this lib turn on usefull stuff, to actually draw gluph on screen.
 
