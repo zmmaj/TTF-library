@@ -151,6 +151,10 @@ Note that that file must be on root folder.
 I did not try to load file, with some wierd path eg '../pictures/envy.ttf'.
 
 
+Sorry about bad code explanation...
+
+if I found a time, I will improve that part.
+
 
 
 
