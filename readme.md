@@ -95,14 +95,20 @@ Enter now
 
 Whola... here it is, something interesting now. All coordinates was on screen. as is below
 
-Ok, not all..
+Ok, not all, but...
 
-to see all extracted data type in terminal next...
+To see all extracted data type in terminal next...
 
 edit FontTest.txt
 
 You will get as below
 ![envy edit txt](https://github.com/user-attachments/assets/799e5c54-492d-4525-b24a-8964d76d4038)
+
+NOTE: this for testing purpose, I did not try what will hapend on type mistake..
+
+probably terminal will crash...
+
+So, be precise in typing.
 
 OK how to compare data of envyttf and envy_bold.ttf?
 
